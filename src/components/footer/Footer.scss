@@ -1,0 +1,24 @@
+@import "../../_globalColor";
+
+.footer-text {
+  text-align: center;
+  color: $textColorDark !important;
+}
+
+.dark-mode {
+  color: $textColorDark !important;
+}
+
+.footer-container{
+background-color: #000000;
+}
+
+a{
+  color: #f10000;
+}
+
+.footer-div {
+  padding-top: 10px;
+  margin-top: 1rem;
+  padding-bottom: 0.3rem;
+}
