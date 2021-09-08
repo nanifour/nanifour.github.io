@@ -1,2 +1,7 @@
 # Declare files that always have LF line endings on checkout
 * text eol=lf
+*.ttf binary
+*.png binary
+*.webp
+*.webp binary
+*.woff binary
