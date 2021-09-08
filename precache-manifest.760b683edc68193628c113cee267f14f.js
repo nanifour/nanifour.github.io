@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f75dbc28a8647b4478aa9d46b9fa8352",
+    "revision": "abbe0a569b72c3a4a9d8d1c5c9a40e3d",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.767310fd.chunk.css"
   },
   {
-    "revision": "8fce4d902d9ebd440e64",
-    "url": "/static/css/main.e583bf0c.chunk.css"
+    "revision": "f6b5e9a98908d8db73cf",
+    "url": "/static/css/main.e36b2955.chunk.css"
   },
   {
     "revision": "2599d42a3e001ac46263",
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.8119c9ae.chunk.js"
   },
   {
-    "revision": "8fce4d902d9ebd440e64",
-    "url": "/static/js/main.9a228b6b.chunk.js"
+    "revision": "f6b5e9a98908d8db73cf",
+    "url": "/static/js/main.fc75bc66.chunk.js"
   },
   {
     "revision": "9c379b55a343cb344d49",
     "url": "/static/js/runtime-main.9a6d79bc.js"
   },
   {
-    "revision": "a3752c4bf72688b3db38d0911cf75f61",
-    "url": "/static/media/Agustina.a3752c4b.woff"
+    "revision": "21f233e19402cc4a66866a7f31191f0d",
+    "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/member-home.6287f119.webp"
   },
   {
-    "revision": "4ee2a27607f94c37859e1420337689a4",
-    "url": "/static/media/oduLogo.4ee2a276.jpg"
+    "revision": "85772c0fe2f05e1dd57e091be5c3ecd8",
+    "url": "/static/media/oduLogo.85772c0f.jpg"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
@@ -96,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/quoraLogo.507c3a23.png"
   },
   {
-    "revision": "dc28ac971622a3fc9ae1398064b3cec3",
-    "url": "/static/media/red-player.dc28ac97.webp"
+    "revision": "a8484df155142c231ff09a36847c1b70",
+    "url": "/static/media/red-player.a8484df1.webp"
   },
   {
     "revision": "79a1fef3cb783e25fbfdc29a28f42015",
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/talksCardBack.13780cdd.svg"
   },
   {
-    "revision": "925eab7bfca0ce88185c551d334d10fd",
-    "url": "/static/media/tesla-home.925eab7b.webp"
+    "revision": "983a7daa6e39b596f807771cd6ac5b8d",
+    "url": "/static/media/tesla-home.983a7daa.webp"
   },
   {
     "revision": "5c25acee0b5369914b9a5949d87c3f9a",
