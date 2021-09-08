@@ -8,12 +8,16 @@
 }
 @font-face {
   font-family: "Montserrat";
+  font-weight: normal;
+  font-style: normal; 
   src: local("Montserrat"),
     url("./assets/fonts/Montserrat-Regular.ttf") format("woff");
   font-display: swap;
 }
 @font-face {
   font-family: "Space Mono";
+  font-weight: normal;
+  font-style: normal; 
   src: local("Space Mono"),
     url("./assets/fonts/SpaceMono-Regular.ttf") format("woff");
   font-display: swap;
@@ -21,6 +25,8 @@
 code {
   font-family: "Space Mono", "Montserrat", source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+  font-weight: normal;
+  font-style: normal; 
 }
 html,
 body {
@@ -29,9 +35,11 @@ body {
 body {
   
   margin: 0;
-  font: 19px / 23px Montserrat, "Montserrat", sans-serif;
+  font: 1.188rem / 1.438rem Montserrat, "Montserrat", sans-serif;
+  /*
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  */
   
   /*
   margin: 0;
@@ -44,7 +52,7 @@ body {
 @media (max-width: 1380px) {
   html,
   body {
-    font-size: 16px;
+    font-size: 1rem;
     line-height: normal;
   }
 }
