@@ -119,7 +119,7 @@ const educationInfo = {
       schoolName: emoji("Old Dominion University 🦁"),
       logo: require("./assets/images/oduLogo.jpg"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "August 2016 - August 2020",
+      duration: "2016 - 2020",
       desc: "Minor: Cybersecurity",
       descBullets: [
         "Relevant Coursework: Software Engineering, Web Security, Data Structures and Algorithms, Operating Systems"
@@ -318,7 +318,7 @@ const bigProjects = {
       image: require("./assets/images/screenshots/search-form.webp"),
       projectName: "Search Forms",
       imageCover: emoji("> Search Forms 🔎 _ "),
-      projectDesc: "Search six websites from one. This project was practice with html form actions, input, and identifying the query (search) strings of different websites. Made with HTML and CSS.  ",
+      projectDesc: "Search six websites from one. Type something into one of the search bars to search that site. This project was practice with html form actions, input, and identifying the query (search) strings of different websites. Made with HTML and CSS.  ",
       footerLink: [
         {
           name: "Demo",
@@ -494,7 +494,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project, opportunity, or just want to say hi? My Inbox is open for all!",
-  number: "8043328306",
+  number: " ",
   email_address: "nholloway013@gmail.com"
 };
 
